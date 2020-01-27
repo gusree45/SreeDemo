@@ -1,0 +1,166 @@
+[API Trapper      (2eb0:2f08)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (3048: f68)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (3048:5648)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3048:5648)] Load Network Traffic Analyzers:
+[Network Analyzer (3048:5648)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (3048:5648)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (3048:5648)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (3048:5648)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (3048:5648)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (3048:5648)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (3048:5648)]     Analyzer Module: local_server (value=)
+[Network Analyzer (3048:5648)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3048:50a8)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (3048:50a8)] "GET /"   
+[Network Analyzer (3048:50a8)]   (Sid:  1) Client -> Server @ : 267 bytes (Service=HTTP)
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (3048:50a8)]   (Sid:  1) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  1) Server -> Client : 9201 bytes  (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /assets/bootstrap.min.js"   
+[Network Analyzer (3048:50a8)]   (Sid:  1) Client -> Server @ : 307 bytes (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /assets/bootstrap-table.js"   
+[Network Analyzer (3048:50a8)]   (Sid:  2) Client -> Server @ : 309 bytes (Service=HTTP)
+[Network Analyzer (3048:4284)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5a30)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:50a8)]   (Sid:  1) Server -> Client : 10080 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 14400 bytes  (Service=HTTP)
+[Network Analyzer (3048:4284)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (3048:50a8)]   (Sid:  1) Server -> Client : 350 bytes  (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /assets/bootstrap-table.css"   
+[Network Analyzer (3048:50a8)]   (Sid:  3) Client -> Server @ : 290 bytes (Service=HTTP)
+[Network Analyzer (3048:5a30)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (3048:50a8)] "GET /assets/bootstrap.min.css"   
+[Network Analyzer (3048:50a8)]   (Sid:  4) Client -> Server @ : 288 bytes (Service=HTTP)
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 172.217.166.74:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (3048:50a8)] "GET /ajax/libs/jquery/2.0.0/jquery.min.js"   
+[Network Analyzer (3048:50a8)]   (Sid:  5) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 172.217.166.74:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (3048:50a8)]   (Sid:  5) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  1) Server -> Client : 2067 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  5) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  5) Server -> Client : 11440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  3) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  5) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  5) Server -> Client : 13955 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 7200 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 10080 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 10080 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  3) Server -> Client : 2535 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 11520 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 15840 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 2880 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 15840 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 4320 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 7200 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 15840 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 2880 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 5760 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Server -> Client : 7708 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 11520 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 5760 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 2833 bytes  (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /favicon.ico"   
+[Network Analyzer (3048:50a8)]   (Sid:  4) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Server -> Client : 211 bytes  (Service=HTTP)
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5a30)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 151.101.38.110:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (3048:5a30)] Request Connection: Remote Server @ 151.101.38.110:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (3048:44b8)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:2e4c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:2e4c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3048:44b8)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (3048:50a8)] "GET /nr-1158.min.js"   
+[Network Analyzer (3048:50a8)]   (Sid:  8) Client -> Server @ : 306 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  8) Server -> Client : 5518 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  8) Server -> Client : 5175 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 162.247.242.18:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 162.247.242.18:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (3048:1528)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:1528)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (3048:50a8)] "GET /1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSg%3D%3D&rst=11922&ref=http://blazedemo.com/&ap=13&be=1750&fe=3499&dc=3044&perf=%7B%22timing%22:%7B%22of%22:1580094881591,%22n%22:0,%22f%22:0,%22dn%22:1,%22dne%22:1,%22c%22:1,%22ce%22:1,%22rq%22:1,%22rp%22:1,%22rpe%22:648,%22dl%22:1,%22di%22:3043,%22ds%22:3043,%22de%22:3152,%22dc%22:3497,%22l%22:3498,%22le%22:3531%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"   
+[Network Analyzer (3048:50a8)]   (Sid:  9) Client -> Server @ : 739 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3048: da8)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:50a8)]   (Sid:  9) Server -> Client : 275 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3048: da8)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3048:50a8)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (3048:50a8)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (3048:50a8)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (3048:50a8)]   (Sid:  4) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent blazedemo_cityselect_choosecity11 [Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 162.247.242.18:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (3048:2314)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:2314)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3048:50a8)]   (Sid: 11) Client -> Server @ : 515 bytes (SSL)(Service=HTTP)
+[Web Request      (3048:50a8)] "POST /events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSg%3D%3D&rst=82234&ref=http://blazedemo.com/"   
+[Network Analyzer (3048:50a8)]   (Sid: 11) Client -> Server @ : 54 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 11) Server -> Client : 179 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (3048:50a8)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (3048:50a8)] "POST /reserve.php"   
+[Network Analyzer (3048:50a8)]   (Sid: 12) Client -> Server @ : 434 bytes (Service=HTTP)
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 11798 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 6 bytes  (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /img/glyphicons-halflings.png"   
+[Network Analyzer (3048:50a8)]   (Sid: 12) Client -> Server @ : 351 bytes (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 2880 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 11520 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 1414 bytes  (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /favicon.ico"   
+[Network Analyzer (3048:50a8)]   (Sid: 12) Client -> Server @ : 209 bytes (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkQARVBET1UZEgsV&rst=1908&ref=http://blazedemo.com/reserve.php&ap=12&be=1024&fe=1886&dc=1102&perf=%7B%22timing%22:%7B%22of%22:1580094978596,%22n%22:0,%22u%22:703,%22ue%22:703,%22f%22:63,%22dn%22:63,%22dne%22:63,%22c%22:63,%22ce%22:63,%22rq%22:359,%22rp%22:675,%22rpe%22:1073,%22dl%22:675,%22di%22:1101,%22ds%22:1101,%22de%22:1114,%22dc%22:1884,%22l%22:1885,%22le%22:1890%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"   
+[Network Analyzer (3048:50a8)]   (Sid: 11) Client -> Server @ : 842 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Server -> Client : 211 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 11) Server -> Client : 146 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent blazedemo_cityselect_choosecity11 [Network Analyzer (3048:50a8)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (3048:50a8)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (3048:50a8)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (3048:50a8)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (3048:50a8)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (3048:50a8)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (3048:50a8)] "POST /purchase.php"   
+[Network Analyzer (3048:50a8)]   (Sid: 14) Client -> Server @ : 492 bytes (Service=HTTP)
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 35.157.194.55:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (3048:50a8)]   (Sid: 14) Server -> Client : 1440 bytes  (Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 14) Server -> Client : 11194 bytes  (Service=HTTP)
+[Network Analyzer (3048:3930)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:3930)] Request Connection: Remote Server @ 162.247.242.18:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (3048:14c0)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:14c0)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (3048:50a8)] "GET /1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkYQRFZeWENSTBMNFA%3D%3D&rst=1186&ref=http://blazedemo.com/purchase.php&ap=14&be=825&fe=1167&dc=898&perf=%7B%22timing%22:%7B%22of%22:1580095048072,%22n%22:0,%22u%22:594,%22ue%22:595,%22f%22:63,%22dn%22:63,%22dne%22:63,%22c%22:63,%22ce%22:63,%22rq%22:304,%22rp%22:516,%22rpe%22:561,%22dl%22:516,%22di%22:897,%22ds%22:897,%22de%22:1015,%22dc%22:1165,%22l%22:1166,%22le%22:1172%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"   
+[Network Analyzer (3048:50a8)]   (Sid: 16) Client -> Server @ : 847 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 16) Server -> Client : 146 bytes (SSL) (Service=HTTP)
+[Web Request      (3048:50a8)] "GET /events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkQARVBET1UZEgsV&rst=70058&ref=http://blazedemo.com/reserve.php&e=bel.6;e,'fi,k5vvsluh,2;5,'type,'pointerdown;6,'fid,-3."   
+[Network Analyzer (3048:50a8)]   (Sid: 16) Client -> Server @ : 558 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3048:50a8)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (3048:5648)] Address lookup for LAPTOP-OIT9QIE2 = 192.168.0.103
+[Network Analyzer (3048:50a8)]   (Sid: 16) Server -> Client : 88 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3048:5648)] Request Connection: Remote Server @ 162.247.242.18:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (3048:10e4)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (3048:10e4)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)

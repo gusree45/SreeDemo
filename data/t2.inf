@@ -1,0 +1,15 @@
+[t2]
+FileName1=t2.html
+URL1=http://blazedemo.com/reserve.php
+Total=3
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_glyphicons-halflings.png
+URL2=http://blazedemo.com/img/glyphicons-halflings.png
+FileName3=t2_favicon.ico
+URL3=http://blazedemo.com/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb
