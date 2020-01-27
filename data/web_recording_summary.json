@@ -46,16 +46,16 @@
   "GeneralInfo": {
     "BrowserVersion": "",
     "IsWinInetMode": false,
-    "MaxUsedConnections": 6,
+    "MaxUsedConnections": 8,
     "RecordedBrowser": "Internet Explorer",
     "RecordingDate": "Jan-27-2020",
-    "RecordingDuration": 177235,
+    "RecordingDuration": 45846188,
     "RecordingMode": "N/A",
     "RecordingTimeStamp": 1580094870,
     "RecordingType": "Browser",
-    "TotalBytesReceived": 249566,
-    "TotalBytesSent": 3156,
-    "TotalRequests": 10,
+    "TotalBytesReceived": 510634,
+    "TotalBytesSent": 6885,
+    "TotalRequests": 21,
     "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko"
   },
   "HostInfo": [
@@ -64,11 +64,74 @@
       "Domains": [
         {
           "HTTPVersion": "HTTP/1.1",
-          "IP": "162.247.242.18",
+          "IP": "162.247.242.20",
           "IncludeInScript": false,
           "Name": "bam.nr-data.net",
           "Port": 443,
           "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 516,
+              "EventId": 269,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSlUKWFNfS11WFgoKCktGDUY%3D&rst=1536&ref=http://blazedemo.com/confirmation.php&ap=10&be=1113&fe=1506&dc=1181&perf=%7B%22timing%22:%7B%22of%22:1580140719274,%22n%22:0,%22u%22:860,%22ue%22:860,%22f%22:52,%22dn%22:52,%22dne%22:52,%22c%22:52,%22ce%22:52,%22rq%22:379,%22rp%22:796,%22rpe%22:822,%22dl%22:796,%22di%22:1180,%22ds%22:1180,%22de%22:1325,%22dc%22:1500,%22l%22:1502,%22le%22:1514%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 687,
+              "EventId": 259,
+              "HttpStatus": 200,
+              "Size": 24,
+              "URL": "https://bam.nr-data.net/events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkYQRFZeWENSTBMNFA%3D%3D&rst=40990&ref=http://blazedemo.com/purchase.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 422,
+              "EventId": 249,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkYQRFZeWENSTBMNFA%3D%3D&rst=972&ref=http://blazedemo.com/purchase.php&ap=14&be=467&fe=944&dc=531&perf=%7B%22timing%22:%7B%22of%22:1580140641297,%22n%22:0,%22u%22:400,%22ue%22:400,%22f%22:52,%22dn%22:52,%22dne%22:52,%22c%22:52,%22ce%22:52,%22rq%22:58,%22rp%22:360,%22rpe%22:367,%22dl%22:360,%22di%22:531,%22ds%22:531,%22de%22:617,%22dc%22:943,%22l%22:944,%22le%22:949%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 344,
+              "EventId": 247,
+              "HttpStatus": 200,
+              "Size": 24,
+              "URL": "https://bam.nr-data.net/events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkQARVBET1UZEgsV&rst=51505&ref=http://blazedemo.com/reserve.php&e=bel.6;e,'fi,k5wmxtqf,2;5,'type,'pointerdown;6,'fid,3."
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 516,
+              "EventId": 227,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkQARVBET1UZEgsV&rst=1126&ref=http://blazedemo.com/reserve.php&ap=9&be=845&fe=1092&dc=912&perf=%7B%22timing%22:%7B%22of%22:1580140590188,%22n%22:0,%22u%22:406,%22ue%22:406,%22f%22:104,%22dn%22:104,%22dne%22:104,%22c%22:104,%22ce%22:104,%22rq%22:110,%22rp%22:374,%22rpe%22:377,%22dl%22:374,%22di%22:911,%22ds%22:911,%22de%22:944,%22dc%22:1090,%22l%22:1091,%22le%22:1105%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 625,
+              "EventId": 220,
+              "HttpStatus": 200,
+              "Size": 24,
+              "URL": "https://bam.nr-data.net/events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSg%3D%3D&rst=20038&ref=http://blazedemo.com/&e=bel.6;e,'fi,k5wmwirp,2;5,'type,'pointerdown;6,'fid,0."
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 594,
+              "EventId": 212,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSg%3D%3D&rst=11840&ref=http://blazedemo.com/&ap=11&be=1898&fe=2966&dc=2490&perf=%7B%22timing%22:%7B%22of%22:1580140570546,%22n%22:0,%22f%22:0,%22dn%22:2,%22dne%22:2,%22c%22:2,%22ce%22:2,%22rq%22:2,%22rp%22:2,%22rpe%22:917,%22dl%22:2,%22di%22:2489,%22ds%22:2489,%22de%22:2601,%22dc%22:2964,%22l%22:2965,%22le%22:3393%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            },
             {
               "CompressionType": "",
               "DataType": "image/gif",
@@ -134,6 +197,15 @@
             {
               "CompressionType": "gzip",
               "DataType": "application/javascript",
+              "DownloadTime": 375,
+              "EventId": 202,
+              "HttpStatus": 200,
+              "Size": 10068,
+              "URL": "https://js-agent.newrelic.com/nr-1158.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
               "DownloadTime": 297,
               "EventId": 74,
               "HttpStatus": 200,
@@ -148,15 +220,59 @@
       "IncludeInScript": true
     },
     {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "117.18.232.200",
+          "IncludeInScript": false,
+          "Name": "iecvlist.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 31,
+              "EventId": 240,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://iecvlist.microsoft.com/ie11blocklist/1401746408/versionlist.xml"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 125,
+              "EventId": 234,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://iecvlist.microsoft.com/ie11blocklist/1401746408/versionlist.xml"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
       "DomainName": "googleapis.com",
       "Domains": [
         {
           "HTTPVersion": "HTTP/1.1",
-          "IP": "172.217.166.42",
+          "IP": "172.217.27.202",
           "IncludeInScript": false,
           "Name": "ajax.googleapis.com",
           "Port": 80,
           "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 31,
+              "EventId": 159,
+              "HttpStatus": 200,
+              "Size": 29195,
+              "URL": "http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"
+            },
             {
               "CompressionType": "gzip",
               "DataType": "text/javascript",
@@ -178,11 +294,110 @@
       "Domains": [
         {
           "HTTPVersion": "HTTP/1.1",
-          "IP": "35.157.194.55",
+          "IP": "18.195.189.58",
           "IncludeInScript": true,
           "Name": "blazedemo.com",
           "Port": 80,
           "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 219,
+              "EventId": 266,
+              "HttpStatus": 200,
+              "Size": 11467,
+              "URL": "http://blazedemo.com/confirmation.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 281,
+              "EventId": 244,
+              "HttpStatus": 200,
+              "Size": 12436,
+              "URL": "http://blazedemo.com/purchase.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 359,
+              "EventId": 224,
+              "HttpStatus": 200,
+              "Size": 15602,
+              "URL": "http://blazedemo.com/img/glyphicons-halflings.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 203,
+              "EventId": 222,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://blazedemo.com/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 250,
+              "EventId": 214,
+              "HttpStatus": 200,
+              "Size": 13065,
+              "URL": "http://blazedemo.com/reserve.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 250,
+              "EventId": 192,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://blazedemo.com/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 266,
+              "EventId": 178,
+              "HttpStatus": 200,
+              "Size": 3765,
+              "URL": "http://blazedemo.com/assets/bootstrap-table.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 265,
+              "EventId": 175,
+              "HttpStatus": 200,
+              "Size": 126461,
+              "URL": "http://blazedemo.com/assets/bootstrap.min.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 265,
+              "EventId": 168,
+              "HttpStatus": 200,
+              "Size": 39170,
+              "URL": "http://blazedemo.com/assets/bootstrap-table.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 250,
+              "EventId": 165,
+              "HttpStatus": 200,
+              "Size": 28663,
+              "URL": "http://blazedemo.com/assets/bootstrap.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 297,
+              "EventId": 150,
+              "HttpStatus": 200,
+              "Size": 10439,
+              "URL": "http://blazedemo.com/"
+            },
             {
               "CompressionType": "",
               "DataType": "text/html",
@@ -285,5 +500,5 @@
     "IncludeInScript": false,
     "IsScriptIncludeWebSocket": false
   },
-  "NumberOfCorrelations": 0
+  "NumberOfCorrelations": 1
 }

@@ -86,7 +86,6 @@
 		4.8.3752.0 built by: NET48REL1C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Management\76fe38b0865b2fe4284bb13fc1dd04e7\System.Management.ni.dll
 		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\system32\wbem\wmiutils.dll
 		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\wbemcomn.dll
-		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\system32\wbem\wbemprox.dll
 		4.8.3752.0 built by: NET48REL1C:\Windows\Microsoft.NET\Framework\v4.0.30319\wminet_utils.dll
 		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\system32\wbem\wbemsvc.dll
 		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\system32\wbem\fastprox.dll
@@ -325,6 +324,12 @@
 		20.0.0.610                    G:\Load Runner\bin\TulipAppInfo.dll
 		2020.0.0.267                  G:\Load Runner\bin\JsonParserWrapper.dll
 		2020.0.0.793                  G:\Load Runner\bin\MicSocket.dll
+		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\edputil.dll
+		10.0.18362.1 (WinBuild.160101.0800)C:\Windows\System32\webio.dll
+		11.00.18362.1 (WinBuild.160101.0800)C:\WINDOWS\System32\jscript9.dll
+		10.0.18362.1 (WinBuild.160101.0800)C:\Windows\System32\vaultcli.dll
+		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\apphelp.dll
+		10.0.18362.1 (WinBuild.160101.0800)C:\WINDOWS\System32\UIAnimation.dll
 		2020.0.0.793                  G:\Load Runner\bin\api_inspector.dll
 		2020.0.0.267                  G:\Load Runner\bin\trpfnc32.dll
 		2020.0.0.793                  G:\Load Runner\bin\lrc_basic_filters.dll

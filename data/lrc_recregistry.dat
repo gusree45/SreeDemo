@@ -7,7 +7,7 @@ Registry settings:
 		default	yes
 	AUT
 		(Default)	
-		default	C:\Program Files\Internet Explorer\IEXPLORE.EXE https://selenium.dev/downloads/
+		default	C:\Program Files\Internet Explorer\IEXPLORE.EXE blazedemo.com
 	DebugFilter
 		(Default)	
 		default	off

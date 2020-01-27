@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1">
-  <HTTPTask id="10" hostname="blazedemo.com" path="/" url="http://blazedemo.com/" ip="35.157.194.55" port="80" connectionId="1" origin="Primary" frame="1" startDateTime="2020-01-27T08:49:36.042+05:30" startTime="558162937" endTime="558163125">
+  <HTTPTask id="10" hostname="blazedemo.com" path="/" url="http://blazedemo.com/" ip="35.157.194.55" port="80" connectionId="1" origin="Primary" frame="1" startDateTime="2020-01-27T21:30:19.189+05:30" startTime="558162937" endTime="558163125">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">
@@ -134,7 +134,7 @@
         <PacketInfo time="558163265" offset="1440" length="9201" />
       </TcpPackets>
     </HTTPResponse>
-    <HTTPTask id="16" hostname="blazedemo.com" path="/assets/bootstrap.min.js" url="http://blazedemo.com/assets/bootstrap.min.js" ip="35.157.194.55" port="80" connectionId="1" origin="HTML" frame="1" startDateTime="2020-01-27T08:49:36.116+05:30" startTime="558163718" endTime="558163984">
+    <HTTPTask id="16" hostname="blazedemo.com" path="/assets/bootstrap.min.js" url="http://blazedemo.com/assets/bootstrap.min.js" ip="35.157.194.55" port="80" connectionId="1" origin="HTML" frame="1" startDateTime="2020-01-27T21:30:19.478+05:30" startTime="558163718" endTime="558163984">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -287,7 +287,7 @@
         </TcpPackets>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="21" hostname="blazedemo.com" path="/assets/bootstrap-table.js" url="http://blazedemo.com/assets/bootstrap-table.js" ip="35.157.194.55" port="80" connectionId="2" origin="HTML" frame="1" startDateTime="2020-01-27T08:49:36.143+05:30" startTime="558163734" endTime="558164046">
+    <HTTPTask id="21" hostname="blazedemo.com" path="/assets/bootstrap-table.js" url="http://blazedemo.com/assets/bootstrap-table.js" ip="35.157.194.55" port="80" connectionId="2" origin="HTML" frame="1" startDateTime="2020-01-27T21:30:19.937+05:30" startTime="558163734" endTime="558164046">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -443,7 +443,7 @@
         </TcpPackets>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="33" hostname="blazedemo.com" path="/assets/bootstrap.min.css" url="http://blazedemo.com/assets/bootstrap.min.css" ip="35.157.194.55" port="80" connectionId="4" origin="HTML" frame="1" startDateTime="2020-01-27T08:49:36.168+05:30" startTime="558164078" endTime="558164234">
+    <HTTPTask id="33" hostname="blazedemo.com" path="/assets/bootstrap.min.css" url="http://blazedemo.com/assets/bootstrap.min.css" ip="35.157.194.55" port="80" connectionId="4" origin="HTML" frame="1" startDateTime="2020-01-27T21:30:20.096+05:30" startTime="558164078" endTime="558164234">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -612,7 +612,7 @@
         </TcpPackets>
       </HTTPResponse>
     </HTTPTask>
-    <HTTPTask id="35" hostname="blazedemo.com" path="/assets/bootstrap-table.css" url="http://blazedemo.com/assets/bootstrap-table.css" ip="35.157.194.55" port="80" connectionId="3" origin="HTML" frame="1" startDateTime="2020-01-27T08:49:36.183+05:30" startTime="558164062" endTime="558164250">
+    <HTTPTask id="35" hostname="blazedemo.com" path="/assets/bootstrap-table.css" url="http://blazedemo.com/assets/bootstrap-table.css" ip="35.157.194.55" port="80" connectionId="3" origin="HTML" frame="1" startDateTime="2020-01-27T21:30:20.173+05:30" startTime="558164062" endTime="558164250">
       <HTTPRequest method="GET">
         <HTTPHeaders>
           <HTTPHeaderEntity name="Accept" index="0">
@@ -764,7 +764,7 @@
       </HTTPResponse>
     </HTTPTask>
   </HTTPTask>
-  <HTTPTask id="64" hostname="blazedemo.com" path="/favicon.ico" url="http://blazedemo.com/favicon.ico" ip="35.157.194.55" port="80" connectionId="4" origin="ExtraRes" frame="1" startDateTime="2020-01-27T08:49:36.193+05:30" startTime="558166859" endTime="558167046">
+  <HTTPTask id="64" hostname="blazedemo.com" path="/favicon.ico" url="http://blazedemo.com/favicon.ico" ip="35.157.194.55" port="80" connectionId="4" origin="ExtraRes" frame="1" startDateTime="2020-01-27T21:30:20.211+05:30" startTime="558166859" endTime="558167046">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">

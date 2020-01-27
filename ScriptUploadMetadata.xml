@@ -4,6 +4,9 @@
   <Protocol>Web - HTTP/HTML</Protocol>
   <ActionFiles>
     <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Demo.c" Filter="2" />
+    <FileEntry Name="Payment.c" Filter="2" />
+    <FileEntry Name="City.c" Filter="2" />
     <FileEntry Name="Action.c" Filter="2" />
     <FileEntry Name="vuser_end.c" Filter="2" />
   </ActionFiles>
@@ -19,6 +22,7 @@
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />

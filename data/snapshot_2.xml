@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="2">
-  <HTTPTask id="103" hostname="blazedemo.com" path="/reserve.php" url="http://blazedemo.com/reserve.php" ip="35.157.194.55" port="80" connectionId="12" origin="Primary" frame="1" startDateTime="2020-01-27T08:49:36.232+05:30" startTime="558260859" endTime="558261156">
+  <HTTPTask id="103" hostname="blazedemo.com" path="/reserve.php" url="http://blazedemo.com/reserve.php" ip="35.157.194.55" port="80" connectionId="12" origin="Primary" frame="1" startDateTime="2020-01-27T21:30:20.492+05:30" startTime="558260859" endTime="558261156">
     <HTTPRequest method="POST">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">
@@ -176,7 +176,7 @@
       </TcpPackets>
     </HTTPResponse>
   </HTTPTask>
-  <HTTPTask id="107" hostname="blazedemo.com" path="/img/glyphicons-halflings.png" url="http://blazedemo.com/img/glyphicons-halflings.png" ip="35.157.194.55" port="80" connectionId="12" origin="ExtraRes" frame="1" startDateTime="2020-01-27T08:49:36.296+05:30" startTime="558261578" endTime="558261875">
+  <HTTPTask id="107" hostname="blazedemo.com" path="/img/glyphicons-halflings.png" url="http://blazedemo.com/img/glyphicons-halflings.png" ip="35.157.194.55" port="80" connectionId="12" origin="ExtraRes" frame="1" startDateTime="2020-01-27T21:30:20.693+05:30" startTime="558261578" endTime="558261875">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">
@@ -328,7 +328,7 @@
       </TcpPackets>
     </HTTPResponse>
   </HTTPTask>
-  <HTTPTask id="111" hostname="blazedemo.com" path="/favicon.ico" url="http://blazedemo.com/favicon.ico" ip="35.157.194.55" port="80" connectionId="12" origin="ExtraRes" frame="1" startDateTime="2020-01-27T08:49:36.319+05:30" startTime="558262265" endTime="558262484">
+  <HTTPTask id="111" hostname="blazedemo.com" path="/favicon.ico" url="http://blazedemo.com/favicon.ico" ip="35.157.194.55" port="80" connectionId="12" origin="ExtraRes" frame="1" startDateTime="2020-01-27T21:30:20.756+05:30" startTime="558262265" endTime="558262484">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Accept" index="0">
